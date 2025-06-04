@@ -12,25 +12,25 @@
 		"lint": "prettier --check . && eslint ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^4.0.0",
-		"@sveltejs/kit": "^2.19.0",
+		"@sveltejs/adapter-auto": "^6.0.1",
+		"@sveltejs/kit": "^2.21.2",
 		"@sveltejs/vite-plugin-svelte": "^4.0.4",
 		"@types/eslint": "^9.6.1",
-		"eslint": "^9.22.0",
-		"eslint-config-prettier": "^10.1.1",
-		"eslint-plugin-svelte": "^2.46.1",
-		"globals": "^16.0.0",
+		"eslint": "^9.28.0",
+		"eslint-config-prettier": "^10.1.5",
+		"eslint-plugin-svelte": "^3.9.1",
+		"globals": "^16.2.0",
 		"prettier": "^3.5.3",
-		"prettier-plugin-svelte": "^3.3.3",
-		"svelte": "^5.23.0",
-		"svelte-check": "^4.1.5",
-		"typescript": "^5.8.2",
-		"typescript-eslint": "^8.26.1",
+		"prettier-plugin-svelte": "^3.4.0",
+		"svelte": "^5.33.14",
+		"svelte-check": "^4.2.1",
+		"typescript": "^5.8.3",
+		"typescript-eslint": "^8.33.1",
 		"vite": "^5.4.14"
 	},
 	"optionalDependencies": {
-    "@rollup/rollup-linux-arm64-musl": "^4.35.0",
-    "@rollup/rollup-linux-x64-musl": "^4.35.0",
-    "@swc/core-linux-arm64-musl": "^1.11.9"
+    "@rollup/rollup-linux-arm64-musl": "^4.41.1",
+    "@rollup/rollup-linux-x64-musl": "^4.41.1",
+    "@swc/core-linux-arm64-musl": "^1.11.29"
   }
 }
